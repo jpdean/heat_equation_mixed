@@ -1,1 +1,1 @@
-# heat_equation_mixed
+# Heat equations solver using a mixed method in FEniCSx
